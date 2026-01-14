@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いんでしょコンキリエ",
+  "base_artist": "HAMBURGER BOYS",
+  "createdAt": "2026-01-14T06:49:48.910222Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いんでしょコンキリエ",
+      "artist": "HAMBURGER BOYS",
+      "has_synced": false,
+      "path": "select/pl_01_いんでしょコンキリエ_HAMBURGER_BOYS.txt"
+    }
+  ]
+}
